@@ -1,0 +1,72 @@
+/*
+Theme Name:     Kuteshop
+Theme URI:      https://kuteshop.kute-themes.net
+Author:         Kutethemes
+Text Domain:    kuteshop
+Author URI:     https://kutethemes.com/
+Description:    Kuteshop Shop is a simple but modern responsive WordPress theme that oozes high-street sophistication. Its sharp lines and flat design style has been designed to be pixel perfect. Simply load your photography and you can have an online shop to matches the likes of Prada, Gucci and Yves St Laurent.
+Version:        3.6.1
+License:        GNU General Public License v1 or later
+License URI:    https://www.gnu.org/licenses/gpl-2.0.html
+Tags:           two-columns, left-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-images, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+.wc-tabs-wrapper{
+	display:none !important;
+}
+*/
+.allow{
+	font-weight:bold;
+	color:red;
+}
+.tab-link{
+	display:none !important;
+} 
+.add-to-cart a{
+	display:none !important;
+}
+#tab-wcfm_product_multivendor_tab{
+	display:none !important;
+}
+.wcfm_product_multivendor_tab_tab,
+.wcfm_enquiry_tab_tab{
+	display:none !important;
+}
+.page-id-2457 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.term-350 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.term-351 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.term-352 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.term-353 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.term-357 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.term-356 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.term-358 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.term-355 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.page-id-9686 .woocommerce-Price-amount.amount{
+	display:none !important;
+}
+.header.style2:not(.style6) .block-nav-category .block-title, .header.style2:not(.style6) .box-header-nav .main-menu>.menu-item.active>a, .header.style2:not(.style6) .box-header-nav .main-menu>.menu-item:hover>a{
+background-color: #0092e8;
+}
+
+.product-item.style-1 .product-inner:hover{
+    border-color: #0092e8 !important;
+}

@@ -1,0 +1,9 @@
+[13-Sep-2020 10:06:33 UTC] PHP Fatal error:  Uncaught Hybrid_Exception: You cannot access this page directly. in /home/uderexon3lb5/public_html/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php:211
+Stack trace:
+#0 /home/uderexon3lb5/public_html/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(157): Hybrid_Endpoint->authInit()
+#1 /home/uderexon3lb5/public_html/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(55): Hybrid_Endpoint->processAuthDone()
+#2 /home/uderexon3lb5/public_html/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php(72): Hybrid_Endpoint->__construct(Array)
+#3 /home/uderexon3lb5/public_html/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/index.php(16): Hybrid_Endpoint::process()
+#4 {main}
+
+Next Hybrid_Exception: Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly. in /home/uderexon3lb5/public_html/wp-content/plugins/yith-woocommerc in /home/uderexon3lb5/public_html/wp-content/plugins/yith-woocommerce-social-login/includes/hybridauth/Hybrid/Endpoint.php on line 217

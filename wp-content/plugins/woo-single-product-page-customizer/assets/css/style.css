@@ -1,0 +1,137 @@
+ul.wsppc_tab li {
+    width: 100%;
+    background: #4c687a;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-bottom: 0;
+}
+h1.woocommerce-single-page-position-map {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+ul.wsppc_tab li>span.wsppc_hook_name {
+    font-size: 18px;
+    font-weight: 600;
+}
+ul.wsppc_tab li:not(:last-child){
+	border-bottom: 1px solid #f1f1f1;
+}
+.form-table td{
+	padding:0;
+}
+form.wsppc_form table.form-table p.description {
+	font-weight: normal;
+}
+form.wsppc_form p.description {
+    margin-bottom: 10px;
+}
+.wsppc_inner {
+    display: table;
+    width: 100%;
+    max-width: 1170px;
+}
+.wsppc_inner a.wsppc_add_form_link {
+    text-decoration: none;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-weight:  bold;
+    background-color: #f1f1f1;
+    color: #4c687a;
+    border: 2px solid #4c687a;
+    border-radius: 4px;
+    transition: all ease 0.3s;
+	display: inline-block;
+}
+form.wsppc_form textarea#content {
+    color: #000;
+    font-size: 14px;
+}
+form.wsppc_form {
+    background-color: #ffffff;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #e1e1e1;
+    box-sizing: border-box;
+}
+.wsppc_inner a.wsppc_add_form_link:hover {
+    background-color: #4c687a;
+    border-color: #4c687a;
+    color: #fff;
+}
+ul.wsppc_tab li .wsppchook_details table.form-table td .tmce-active .wp-editor-tools {
+    padding: 10px;
+	padding-bottom: 0;
+}
+form.wsppc_form table.form-table th {
+    padding: 5px 5px 20px 5px;
+}
+ul.wsppc_toggle.wsppc_tab {	
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 3px 0px #000000;
+    border-radius: 3px;
+    overflow: hidden;
+    display: table;
+    width: 100%;
+    margin: 20px auto;
+}
+form.wsppc_form div#wp-content-editor-tools {
+    padding: 15px;
+    padding-bottom: 0;
+}
+form.wsppc_form table.form-table th>span {
+    display: inline-block;
+    vertical-align: top;
+}
+ul.wsppc_tab li>span {
+    padding: 5px 0;
+    display: inline-block;
+}
+ul.wsppc_tab li span.wsppc_hook_action a:focus, ul.wsppc_tab li span.wsppc_hook_action a:visited, ul.wsppc_tab li span.wsppc_hook_action a:active {
+    outline: 0;
+    box-shadow: none;
+}
+ul.wsppc_tab li span.wsppc_hook_action a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 600;
+	outline:none;
+}
+ul.wsppc_tab li span.wsppc_hook_action a:before {
+    font: 400 20px/1 dashicons;
+    vertical-align: bottom;
+    margin-right: 3px;
+}
+ul.wsppc_tab li span.wsppc_hook_action a.wsppc_edit_hook:before {
+    content: "\f464";
+}
+form.wsppc_form table.form-table th>span:first-child {
+    width: 10%;
+    padding: 5px;
+}
+ul.wsppc_tab li span.wsppc_hook_action a.wsppc_remove_hook:before {
+	content: "\f182";
+}
+span.wsppc_hook_action {
+    float: right;
+}
+.wsppchook_details .wp-editor-area{
+	color: #000 !important;
+}
+textarea.wsppc_content {
+    width: 100%;
+	font-weight: normal;
+}
+.wsppc-error-msg
+{
+	    border-left-color: #dc3232;
+}
+.wsppc-success-msg
+{
+	    border-left-color: #46b450;
+}

@@ -1,0 +1,1845 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kuteshop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-31 09:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: 404.php:38
+msgid " 404 "
+msgstr ""
+
+#: 404.php:46
+msgid " Home page"
+msgstr ""
+
+#: 404.php:47
+msgid " or using"
+msgstr ""
+
+#: 404.php:48
+msgid " search!"
+msgstr ""
+
+#: templates/blog/blog-standard.php:43 templates/blog/blog-standard.php:84
+#: templates/blog/blog-single.php:35
+msgid " Sticky"
+msgstr ""
+
+#: templates/blog/blog-standard.php:33 templates/blog/blog-standard.php:74
+#: templates/blog/blog-single.php:25
+#: templates/blog/blog-style/content-blog-style1.php:25
+msgid "% Comments"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:80
+#, php-format
+msgid "%1$s item(s) - "
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:683
+#, php-format
+msgid "%1$s out of %2$s"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:47
+#, php-format
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/settings/theme-options.php:1222
+msgid "%n transient database entries have been deleted."
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:100
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:104
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/settings/theme-options.php:615
+#: framework/settings/theme-options.php:813
+#: framework/settings/theme-options.php:939
+#: framework/settings/theme-options.php:1022
+#: framework/settings/theme-options.php:1105
+msgid "(Screen resolution of device < 480px)"
+msgstr ""
+
+#: framework/settings/theme-options.php:551
+#: framework/settings/theme-options.php:753
+#: framework/settings/theme-options.php:899
+#: framework/settings/theme-options.php:982
+#: framework/settings/theme-options.php:1065
+msgid "(Screen resolution of device >= 1200px < 1500px )"
+msgstr ""
+
+#: framework/settings/theme-options.php:535
+#: framework/settings/theme-options.php:738
+#: framework/settings/theme-options.php:889
+#: framework/settings/theme-options.php:972
+#: framework/settings/theme-options.php:1055
+msgid "(Screen resolution of device >= 1500px )"
+msgstr ""
+
+#: framework/settings/theme-options.php:599
+#: framework/settings/theme-options.php:798
+#: framework/settings/theme-options.php:929
+#: framework/settings/theme-options.php:1012
+#: framework/settings/theme-options.php:1095
+msgid "(Screen resolution of device >=480  add < 768px)"
+msgstr ""
+
+#: framework/settings/theme-options.php:583
+#: framework/settings/theme-options.php:783
+#: framework/settings/theme-options.php:919
+#: framework/settings/theme-options.php:1002
+#: framework/settings/theme-options.php:1085
+msgid "(Screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: framework/settings/theme-options.php:567
+#: framework/settings/theme-options.php:768
+#: framework/settings/theme-options.php:909
+#: framework/settings/theme-options.php:992
+#: framework/settings/theme-options.php:1075
+msgid "(Screen resolution of device >=992px and < 1200px )"
+msgstr ""
+
+#: woocommerce/content-product-list.php:73 templates/blog/blog-standard.php:105
+#: woocommerce/product-styles/content-product-style-13.php:66
+#: templates/blog/blog-style/content-blog-style2.php:17
+msgid "..."
+msgstr ""
+
+#: templates/blog/blog-standard.php:72
+msgid "0 Comment"
+msgstr ""
+
+#: templates/blog/blog-standard.php:32 templates/blog/blog-standard.php:73
+#: templates/blog/blog-single.php:24
+#: templates/blog/blog-style/content-blog-style1.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: framework/settings/theme-options.php:540
+#: framework/settings/theme-options.php:556
+#: framework/settings/theme-options.php:572
+#: framework/settings/theme-options.php:588
+#: framework/settings/theme-options.php:604
+#: framework/settings/theme-options.php:620
+#: framework/settings/theme-options.php:743
+#: framework/settings/theme-options.php:758
+#: framework/settings/theme-options.php:773
+#: framework/settings/theme-options.php:788
+#: framework/settings/theme-options.php:803
+#: framework/settings/theme-options.php:818
+msgid "1 item"
+msgstr ""
+
+#: framework/settings/theme-options.php:541
+#: framework/settings/theme-options.php:557
+#: framework/settings/theme-options.php:573
+#: framework/settings/theme-options.php:589
+#: framework/settings/theme-options.php:605
+#: framework/settings/theme-options.php:621
+#: framework/settings/theme-options.php:744
+#: framework/settings/theme-options.php:759
+#: framework/settings/theme-options.php:774
+#: framework/settings/theme-options.php:789
+#: framework/settings/theme-options.php:804
+#: framework/settings/theme-options.php:819
+msgid "2 items"
+msgstr ""
+
+#: framework/settings/theme-options.php:542
+#: framework/settings/theme-options.php:558
+#: framework/settings/theme-options.php:574
+#: framework/settings/theme-options.php:590
+#: framework/settings/theme-options.php:606
+#: framework/settings/theme-options.php:622
+#: framework/settings/theme-options.php:745
+#: framework/settings/theme-options.php:760
+#: framework/settings/theme-options.php:775
+#: framework/settings/theme-options.php:790
+#: framework/settings/theme-options.php:805
+#: framework/settings/theme-options.php:820
+msgid "3 items"
+msgstr ""
+
+#: framework/settings/theme-options.php:543
+#: framework/settings/theme-options.php:559
+#: framework/settings/theme-options.php:575
+#: framework/settings/theme-options.php:591
+#: framework/settings/theme-options.php:607
+#: framework/settings/theme-options.php:623
+#: framework/settings/theme-options.php:746
+#: framework/settings/theme-options.php:761
+#: framework/settings/theme-options.php:776
+#: framework/settings/theme-options.php:791
+#: framework/settings/theme-options.php:806
+#: framework/settings/theme-options.php:821
+msgid "4 items"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:208
+msgid "404 Not Found"
+msgstr ""
+
+#: framework/settings/theme-options.php:544
+#: framework/settings/theme-options.php:560
+#: framework/settings/theme-options.php:576
+#: framework/settings/theme-options.php:592
+#: framework/settings/theme-options.php:608
+#: framework/settings/theme-options.php:624
+#: framework/settings/theme-options.php:747
+#: framework/settings/theme-options.php:762
+#: framework/settings/theme-options.php:777
+#: framework/settings/theme-options.php:792
+#: framework/settings/theme-options.php:807
+#: framework/settings/theme-options.php:822
+msgid "5 items"
+msgstr ""
+
+#: framework/settings/theme-options.php:545
+#: framework/settings/theme-options.php:561
+#: framework/settings/theme-options.php:577
+#: framework/settings/theme-options.php:593
+#: framework/settings/theme-options.php:609
+#: framework/settings/theme-options.php:625
+#: framework/settings/theme-options.php:748
+#: framework/settings/theme-options.php:763
+#: framework/settings/theme-options.php:778
+#: framework/settings/theme-options.php:793
+#: framework/settings/theme-options.php:808
+#: framework/settings/theme-options.php:823
+msgid "6 items"
+msgstr ""
+
+#: woocommerce/content-email.php:38
+msgid ""
+"A friend has sent you a link to a product that (s)he thinks may interest you."
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:53
+msgid "Account Name"
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:61
+msgid "Account Number"
+msgstr ""
+
+#: framework/settings/theme-options.php:260
+msgid "ACE Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:1561
+msgid "Add Avatar"
+msgstr ""
+
+#: framework/settings/theme-options.php:653
+msgid "Add Banner"
+msgstr ""
+
+#: framework/settings/theme-options.php:322
+#: framework/settings/theme-options.php:660
+#: framework/settings/theme-options.php:1419
+msgid "Add New"
+msgstr ""
+
+#: framework/settings/theme-options.php:247
+msgid "Add New Field"
+msgstr ""
+
+#: framework/settings/theme-options.php:1131
+msgid "Add New Social"
+msgstr ""
+
+#: framework/settings/theme-options.php:246
+msgid "Add Widget"
+msgstr ""
+
+#: functions.php:129 functions.php:139 functions.php:149
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: framework/theme-functions.php:80
+msgid "ago"
+msgstr ""
+
+#: templates-parts/header-search-form.php:10
+#: framework/settings/theme-options.php:420
+#: framework/settings/theme-options.php:1364
+msgid "All Categories"
+msgstr ""
+
+#: framework/settings/theme-options.php:1224
+msgid "All transient related database entries will be deleted."
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:209
+msgid "Archives"
+msgstr ""
+
+#: woocommerce/content-product-list.php:55
+msgid "Availability: "
+msgstr ""
+
+#: framework/settings/theme-options.php:1560
+msgid "Avatar"
+msgstr ""
+
+#: framework/theme-functions.php:195
+msgid "Avatar Mobile"
+msgstr ""
+
+#: framework/settings/theme-options.php:1296
+msgid "Background Banner"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:198
+msgid "Background Position"
+msgstr ""
+
+#: framework/settings/theme-options.php:1217
+msgid "Backup Field"
+msgstr ""
+
+#: framework/settings/theme-options.php:1212
+msgid "Backup Options"
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:48
+msgid "Bank Details"
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:69
+msgid "Bank Name"
+msgstr ""
+
+#: framework/settings/theme-options.php:352
+#: framework/settings/theme-options.php:1448
+msgid "Banner"
+msgstr ""
+
+#: framework/settings/theme-options.php:1281
+msgid "Banner Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:360
+#: framework/settings/theme-options.php:1456
+msgid "Banner Url"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:691
+#, php-format
+msgid "based on %s rating"
+msgid_plural "Based on %s ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wc-vendors/dashboard/settings/settings.php:91
+msgid "BIC / Swift"
+msgstr ""
+
+#: framework/settings/theme-options.php:470
+msgid "Blog Page"
+msgstr ""
+
+#: framework/settings/theme-options.php:465
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:487
+msgid "Blog Sidebar"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:221
+msgid "Bottom"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:206
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: functions.php:386
+msgid "Browse Wishlist"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:205
+msgid "Browse:"
+msgstr ""
+
+#: framework/settings/theme-options.php:1257
+msgid "by"
+msgstr ""
+
+#: templates/blog/blog-standard.php:17
+msgid "By "
+msgstr ""
+
+#: templates/blog/blog-standard.php:60 templates/blog/blog-single.php:11
+msgid "By: "
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:296
+msgid "Cancel"
+msgstr ""
+
+#: framework/classes/core-ajax.php:326
+msgid "Captcha Code Incorrect."
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:100
+#: framework/woocommerce/template-functions.php:133
+msgid "Cart"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:128
+msgid "CART:"
+msgstr ""
+
+#: framework/settings/theme-options.php:411
+#: framework/settings/theme-options.php:1355
+msgid "CATEGORIES"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:54
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/megamenu/templates/form-settings.php:205
+msgid "Center"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:71
+msgid "Class Megamenu Responsive"
+msgstr ""
+
+#: woocommerce/content-email.php:43
+msgid "Click here to view this item:"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:21
+msgid ""
+"Click on \"Enable Mega Builder\" in  Settings tab before building content."
+msgstr ""
+
+#: framework/settings/theme-options.php:429
+#: framework/settings/theme-options.php:1373
+msgid "Close"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:39
+msgid "Commission"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:57
+msgid "Content"
+msgstr ""
+
+#. %s: Name of current post
+#: templates/blog/blog-standard.php:93 templates/blog/blog-single.php:44
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: framework/settings/theme-options.php:888
+#: framework/settings/theme-options.php:898
+msgid "Cross sell items per row on Desktop"
+msgstr ""
+
+#: framework/settings/theme-options.php:908
+msgid "Cross sell items per row on landscape tablet"
+msgstr ""
+
+#: framework/settings/theme-options.php:928
+#: framework/settings/theme-options.php:938
+msgid "Cross sell items per row on Mobile"
+msgstr ""
+
+#: framework/settings/theme-options.php:918
+msgid "Cross sell items per row on portrait tablet"
+msgstr ""
+
+#: framework/settings/theme-options.php:868
+msgid "Cross sell products"
+msgstr ""
+
+#: framework/settings/theme-options.php:881
+#: framework/settings/theme-options.php:885
+msgid "Cross sell title"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:234
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/includes/megamenu/templates/icon-fonts.php:1049
+msgid "Custom Fonts"
+msgstr ""
+
+#: framework/settings/theme-options.php:1483
+msgid "Custom Footer Options"
+msgstr ""
+
+#: framework/settings/theme-options.php:1508
+msgid "Custom Page Side Options"
+msgstr ""
+
+#: framework/settings/theme-options.php:1549
+msgid "Custom Testimonial Options"
+msgstr ""
+
+#: framework/settings/theme-options.php:1274
+msgid "Custom Theme Options"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:645 framework/classes/breadcrumbs.php:982
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: framework/includes/megamenu/templates/icon-fonts.php:1038
+msgid "Dashicons"
+msgstr ""
+
+#: framework/settings/theme-options.php:1230
+msgid "database entries have been updated."
+msgstr ""
+
+#: framework/settings/theme-options.php:1232
+msgid ""
+"Database will be update for compare with new version theme, There is NO UNDO."
+msgstr ""
+
+#: functions.php:392
+msgid "Days"
+msgstr ""
+
+#: framework/settings/theme-options.php:225
+msgid "Delay time"
+msgstr ""
+
+#: framework/settings/theme-options.php:1222
+#: framework/settings/theme-options.php:1223
+msgid "Delete Transients"
+msgstr ""
+
+#: framework/settings/theme-options.php:211
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:252
+msgid "Description"
+msgstr ""
+
+#: framework/settings/theme-options.php:876
+#: framework/settings/theme-options.php:959
+#: framework/settings/theme-options.php:1042
+msgid "Disable"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:142
+msgid "Disable link"
+msgstr ""
+
+#: templates-parts/popup-newsletter.php:48
+msgid "Don&rsquo;t show this popup again"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:267
+msgid "Down one"
+msgstr ""
+
+#: framework/classes/core-ajax.php:414
+msgid "E-mail address of your friend * :"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:189
+#: framework/includes/megamenu/templates/form-settings.php:114
+msgid "Edit"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:188
+msgid "Edit menu item"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:112
+msgid "Edit this selected megamenu in new window."
+msgstr ""
+
+#: framework/settings/theme-options.php:278
+msgid "Editor Javascript"
+msgstr ""
+
+#: framework/settings/theme-options.php:269
+msgid "Editor Style"
+msgstr ""
+
+#: framework/settings/theme-options.php:875
+#: framework/settings/theme-options.php:958
+#: framework/settings/theme-options.php:1041
+msgid "Enable"
+msgstr ""
+
+#: framework/settings/theme-options.php:862
+msgid "Enable Ajax Add To Cart"
+msgstr ""
+
+#: framework/settings/theme-options.php:1287
+msgid "Enable Banner"
+msgstr ""
+
+#: framework/settings/theme-options.php:878
+msgid "Enable Cross Sell Products"
+msgstr ""
+
+#: framework/settings/theme-options.php:171
+msgid "Enable for using Themes setting each single page."
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:83
+msgid "Enable Mega"
+msgstr ""
+
+#: framework/settings/theme-options.php:169
+msgid "Enable Meta Box Options"
+msgstr ""
+
+#: framework/settings/theme-options.php:672
+msgid "Enable Placeholder Rate"
+msgstr ""
+
+#: framework/settings/theme-options.php:232
+msgid "Enable Poppup on Mobile"
+msgstr ""
+
+#: framework/settings/theme-options.php:187
+msgid "Enable Popup Newsletter"
+msgstr ""
+
+#: framework/settings/theme-options.php:857
+msgid "Enable Product Share"
+msgstr ""
+
+#: framework/settings/theme-options.php:531
+msgid "Enable Related"
+msgstr ""
+
+#: framework/settings/theme-options.php:961
+msgid "Enable Related Products"
+msgstr ""
+
+#: framework/settings/theme-options.php:1044
+msgid "Enable Up sells Products"
+msgstr ""
+
+#: framework/settings/theme-options.php:218
+msgid "Enter your email..."
+msgstr ""
+
+#: framework/settings/theme-options.php:164
+msgid "Enter your Google Map API key. "
+msgstr ""
+
+#: 404.php:37
+msgid "Error"
+msgstr ""
+
+#: framework/theme-functions.php:165
+msgid "Example@email.com"
+msgstr ""
+
+#: framework/settings/theme-options.php:1538
+msgid "Extra Class"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:81
+msgid "Facebook"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:78
+msgid "Field empty value is default ( .ovic-menu-wapper )"
+msgstr ""
+
+#: framework/includes/megamenu/templates/icon-fonts.php:1042
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/settings/theme-options.php:451
+#: framework/settings/theme-options.php:1465
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:1489
+msgid "FOOTER STYLE"
+msgstr ""
+
+#: framework/settings/theme-options.php:1494
+msgid "Footer Style"
+msgstr ""
+
+#: wc-vendors/dashboard/date-picker.php:20
+msgid "From:"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: framework/settings/theme-options.php:141
+msgid "General"
+msgstr ""
+
+#: content-none.php:4
+msgid "Get started here"
+msgstr ""
+
+#: framework/settings/theme-options.php:163
+msgid "Google Map API Key"
+msgstr ""
+
+#: framework/theme-functions.php:163
+msgid "Guest"
+msgstr ""
+
+#: framework/settings/theme-options.php:301
+#: framework/settings/theme-options.php:1399
+msgid "Header Layout"
+msgstr ""
+
+#: framework/settings/theme-options.php:344
+#: framework/settings/theme-options.php:1440
+msgid "Header Phone Number"
+msgstr ""
+
+#: framework/settings/theme-options.php:321
+#: framework/settings/theme-options.php:1418
+msgid "Header Service"
+msgstr ""
+
+#: framework/settings/theme-options.php:323
+#: framework/settings/theme-options.php:1420
+msgid "Header Service Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:286
+#: framework/settings/theme-options.php:291
+#: framework/settings/theme-options.php:1393
+msgid "Header Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:312
+#: framework/settings/theme-options.php:1410
+msgid "Header Text Box"
+msgstr ""
+
+#: framework/settings/theme-options.php:1301
+msgid "Height Banner"
+msgstr ""
+
+#: woocommerce/content-email.php:27
+msgid "Hi"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:124
+msgid "Hide title"
+msgstr ""
+
+#: framework/settings/theme-options.php:205
+msgid "Highlight"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:207
+msgid "Home"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:628
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: framework/settings/theme-options.php:164
+msgid "How to get?"
+msgstr ""
+
+#: functions.php:393
+msgid "Hrs"
+msgstr ""
+
+#. URI of the theme
+msgid "https://kuteshop.kute-themes.net"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://kutethemes.com/"
+msgstr ""
+
+#: templates-parts/header-search-form.php:61
+#: templates-parts/header-search-form.php:101
+msgid "I&#39;m searching for..."
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:84
+msgid "IBAN"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:231
+msgid "Icon Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:1149
+msgid "Icon Social"
+msgstr ""
+
+#: framework/settings/theme-options.php:1623
+msgid "Icon Taxonomy"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:50
+msgid "Icons"
+msgstr ""
+
+#: framework/settings/theme-options.php:331
+#: framework/settings/theme-options.php:1428
+msgid "Image"
+msgstr ""
+
+#: framework/settings/theme-options.php:217
+msgid "Input placeholder text"
+msgstr ""
+
+#: content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woocommerce/content-product-list.php:51
+#, php-format
+msgid "Item Code: #%s"
+msgstr ""
+
+#: framework/settings/theme-options.php:737
+#: framework/settings/theme-options.php:752
+msgid "Items per row on Desktop( For grid mode )"
+msgstr ""
+
+#: framework/settings/theme-options.php:767
+msgid "Items per row on landscape tablet( For grid mode )"
+msgstr ""
+
+#: framework/settings/theme-options.php:797
+#: framework/settings/theme-options.php:812
+msgid "Items per row on Mobile( For grid mode )"
+msgstr ""
+
+#: framework/settings/theme-options.php:782
+msgid "Items per row on portrait tablet( For grid mode )"
+msgstr ""
+
+#. Name of the theme
+msgid "Kuteshop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Kuteshop Shop is a simple but modern responsive WordPress theme that oozes "
+"high-street sophistication. Its sharp lines and flat design style has been "
+"designed to be pixel perfect. Simply load your photography and you can have "
+"an online shop to matches the likes of Prada, Gucci and Yves St Laurent."
+msgstr ""
+
+#. Author of the theme
+#: framework/settings/theme-options.php:1259
+msgid "Kutethemes"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:325
+msgid "Label Settings"
+msgstr ""
+
+#: comments.php:33
+msgid "Leave your Comment"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:209
+msgid "Left"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:243
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/settings/theme-options.php:1143
+msgid "Link Social"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:20
+msgid "LOAD EDITOR"
+msgstr ""
+
+#: framework/theme-functions.php:164 templates-parts/header-user-link.php:33
+msgid "Login"
+msgstr ""
+
+#: framework/settings/theme-options.php:151
+#: framework/settings/theme-options.php:1326
+msgid "Logo"
+msgstr ""
+
+#: framework/theme-functions.php:175 templates-parts/header-user-link.php:26
+msgid "Logout"
+msgstr ""
+
+#: framework/settings/theme-options.php:156
+#: framework/settings/theme-options.php:1331
+msgid "Main Color"
+msgstr ""
+
+#: templates/header/header-style-07.php:74
+msgid "MAIN MENU"
+msgstr ""
+
+#: framework/includes/megamenu/includes/megamenu-settings.php:153
+#: framework/includes/megamenu/includes/megamenu-settings.php:217
+msgid "Main Menu"
+msgstr ""
+
+#: framework/settings/theme-options.php:296
+msgid "Main Menu Sticky"
+msgstr ""
+
+#: framework/settings/theme-options.php:146
+msgid "Main Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:1313
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/settings/theme-options.php:1307
+msgid "Margin Top"
+msgstr ""
+
+#: templates/header/header-style-11.php:66
+msgid "MENU"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:175
+msgid "Menu Background"
+msgstr ""
+
+#: framework/includes/megamenu/includes/megamenu-settings.php:650
+#: framework/includes/megamenu/includes/megamenu-settings.php:705
+msgid "Menu item not exists."
+msgstr ""
+
+#: framework/includes/megamenu/includes/megamenu-settings.php:306
+msgid "Menu Mobile"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:32
+msgid "Menu: "
+msgstr ""
+
+#: functions.php:394
+msgid "Mins"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: framework/classes/breadcrumbs.php:215
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:596
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:612
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: framework/includes/megamenu/includes/megamenu-settings.php:45
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:644 framework/classes/breadcrumbs.php:692
+#: framework/classes/breadcrumbs.php:979
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:263
+msgid "Move"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:184
+msgid "Move down"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:170
+msgid "Move up"
+msgstr ""
+
+#: framework/settings/theme-options.php:245
+msgid "Multi Widget"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:106
+msgid "My Cart"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:46
+msgid "N/A"
+msgstr ""
+
+#: framework/settings/theme-options.php:1566
+msgid "Name"
+msgstr ""
+
+#: framework/classes/core-ajax.php:409
+msgid "Name of your friend * :"
+msgstr ""
+
+#: framework/settings/theme-options.php:252
+msgid "Name Widget"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:208
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:605
+msgid "New"
+msgstr ""
+
+#: framework/settings/theme-options.php:182
+msgid "Newsletter Settings"
+msgstr ""
+
+#: comments.php:74 framework/theme-functions.php:94
+#: woocommerce/loop/pagination.php:42
+msgid "Next"
+msgstr ""
+
+#: templates/blog/blog-standard.php:31 templates/blog/blog-single.php:23
+#: templates/blog/blog-style/content-blog-style1.php:23
+msgid "No Comments"
+msgstr ""
+
+#: framework/classes/core-ajax.php:301
+msgid "No Product"
+msgstr ""
+
+#: 404.php:39
+msgid "Not Found"
+msgstr ""
+
+#: content-none.php:1
+msgid "Nothing Found"
+msgstr ""
+
+#: functions.php:387
+msgid "Notice!"
+msgstr ""
+
+#: framework/settings/theme-options.php:727
+msgid "Number of products on shop page."
+msgstr ""
+
+#. %s: post title
+#: comments.php:43
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:229
+msgid "Open link in a new tab"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:277
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: page.php:75
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: framework/classes/breadcrumbs.php:213
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/settings/theme-options.php:1531
+msgid "Page Sidebar"
+msgstr ""
+
+#: page.php:71 templates/blog/blog-standard.php:98
+#: templates/blog/blog-single.php:49
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:87
+msgid "Pinterest"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Your search here&hellip;"
+msgstr ""
+
+#: framework/classes/core-ajax.php:336
+msgid "Please enter the email of your friend."
+msgstr ""
+
+#: framework/classes/core-ajax.php:331
+msgid "Please enter the name of your friend."
+msgstr ""
+
+#: functions.php:396
+msgid "Plz Select option before Add To Cart."
+msgstr ""
+
+#: framework/settings/theme-options.php:193
+msgid "Popup Background"
+msgstr ""
+
+#: framework/settings/theme-options.php:1571
+msgid "Position"
+msgstr ""
+
+#: framework/settings/theme-options.php:1594
+msgid "Poster Video"
+msgstr ""
+
+#: comments.php:73 framework/theme-functions.php:93
+msgid "Prev"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:41
+msgid "Previous"
+msgstr ""
+
+#: functions.php:51 importer/importer.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:28
+msgid "Print"
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:37
+msgid "Product"
+msgstr ""
+
+#: functions.php:383
+msgid "Product has been added to cart!"
+msgstr ""
+
+#: functions.php:384
+msgid "Product has been added to wishlist!"
+msgstr ""
+
+#: framework/settings/theme-options.php:1583
+msgid "Product Options"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:50
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: functions.php:388
+msgid "Product Removed"
+msgstr ""
+
+#: framework/settings/theme-options.php:677
+msgid "Product Shop Layout"
+msgstr ""
+
+#: functions.php:147
+msgid "Product Widget Area"
+msgstr ""
+
+#: framework/settings/theme-options.php:689
+msgid "Products Newness"
+msgstr ""
+
+#: framework/settings/theme-options.php:726
+msgid "Products perpage"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:37
+msgid "Qty:"
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:38
+msgid "Quantity"
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:40
+msgid "Rate"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:779
+msgid "Rating"
+msgstr ""
+
+#: templates/blog/blog-standard.php:113
+#: templates/blog/blog-style/content-blog-style3.php:18
+#: templates/blog/blog-style/content-blog-style1.php:32
+#: templates/blog/blog-style/content-blog-style5.php:17
+msgid "Read more"
+msgstr ""
+
+#: content-none.php:4
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: framework/settings/theme-options.php:534
+#: framework/settings/theme-options.php:550
+msgid "Related items per row on Desktop"
+msgstr ""
+
+#: framework/settings/theme-options.php:566
+msgid "Related items per row on landscape tablet"
+msgstr ""
+
+#: framework/settings/theme-options.php:598
+#: framework/settings/theme-options.php:614
+msgid "Related items per row on Mobile"
+msgstr ""
+
+#: framework/settings/theme-options.php:582
+msgid "Related items per row on portrait tablet"
+msgstr ""
+
+#: templates/blog/blog-related.php:37
+msgid "RELATED POST"
+msgstr ""
+
+#: framework/settings/theme-options.php:1001
+msgid "Related product items per row on portrait tablet"
+msgstr ""
+
+#: framework/settings/theme-options.php:951
+#: framework/settings/theme-options.php:967
+msgid "Related Products"
+msgstr ""
+
+#: framework/settings/theme-options.php:971
+#: framework/settings/theme-options.php:981
+msgid "Related products items per row on Desktop"
+msgstr ""
+
+#: framework/settings/theme-options.php:991
+msgid "Related products items per row on landscape tablet"
+msgstr ""
+
+#: framework/settings/theme-options.php:1011
+#: framework/settings/theme-options.php:1021
+msgid "Related products items per row on Mobile"
+msgstr ""
+
+#: framework/settings/theme-options.php:964
+#: framework/settings/theme-options.php:968
+msgid "Related products title"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:291
+msgid "Remove"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:190
+#: framework/includes/megamenu/templates/form-settings.php:320
+#: framework/includes/megamenu/templates/form-settings.php:338
+msgid "Remove image"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:213
+msgid "Right"
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:77
+msgid "Routing Number"
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:19
+msgid "Sales Report"
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:140
+msgid "Save"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:35
+msgid "Save All"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:277
+msgid "Search Icon"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: framework/classes/breadcrumbs.php:211
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: index.php:69
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:395
+msgid "Secs"
+msgstr ""
+
+#: framework/settings/theme-options.php:1495
+msgid "Select a Footer Style"
+msgstr ""
+
+#: framework/settings/theme-options.php:302
+#: framework/settings/theme-options.php:1400
+msgid "Select a header layout"
+msgstr ""
+
+#: framework/settings/theme-options.php:678
+msgid "Select a Product layout in shop page"
+msgstr ""
+
+#: framework/settings/theme-options.php:715
+msgid "Select default layout for shop, product category archive."
+msgstr ""
+
+#: framework/settings/theme-options.php:457
+#: framework/settings/theme-options.php:1471
+msgid "Select Footer Builder"
+msgstr ""
+
+#: framework/settings/theme-options.php:476
+msgid "Select sidebar position on Blog."
+msgstr ""
+
+#: framework/settings/theme-options.php:1520
+msgid "Select sidebar position on Page."
+msgstr ""
+
+#: framework/settings/theme-options.php:696
+msgid "Select sidebar position on Shop Page."
+msgstr ""
+
+#: framework/settings/theme-options.php:512
+msgid "Select sidebar position on Single Post."
+msgstr ""
+
+#: framework/settings/theme-options.php:836
+msgid "Select sidebar position on single product page."
+msgstr ""
+
+#: framework/settings/theme-options.php:368
+msgid "Select Social"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:247
+msgid "Select value"
+msgstr ""
+
+#: framework/classes/core-ajax.php:432
+msgid "Send"
+msgstr ""
+
+#: comments.php:32
+msgid "Send Comment"
+msgstr ""
+
+#: framework/classes/core-ajax.php:396
+msgid "SEND TO A FRIEND"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "Send to a friend"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:136
+msgid "SETTINGS"
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:19
+#: framework/includes/megamenu/templates/form-settings.php:44
+msgid "Settings"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:62
+msgid "Share on:"
+msgstr ""
+
+#: framework/settings/theme-options.php:646
+#: framework/settings/theme-options.php:652
+msgid "Shop Banner"
+msgstr ""
+
+#: framework/settings/theme-options.php:659
+msgid "Shop Banner Link"
+msgstr ""
+
+#: framework/settings/theme-options.php:714
+msgid "Shop Default Layout"
+msgstr ""
+
+#: framework/settings/theme-options.php:734
+msgid "Shop Grid"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:31
+msgid "Shop order"
+msgstr ""
+
+#: framework/settings/theme-options.php:695
+msgid "Shop Page Sidebar Position"
+msgstr ""
+
+#: framework/settings/theme-options.php:641
+msgid "Shop Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:707
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:137
+msgid "Shop Widget Area"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:76
+msgid "SHOPPING CART"
+msgstr ""
+
+#: wc-vendors/dashboard/date-picker.php:32
+msgid "Show"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:223
+msgid "Show 05"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:228
+msgid "Show 10"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:233
+msgid "Show 12"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:238
+msgid "Show 15"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:243
+msgid "Show All"
+msgstr ""
+
+#: framework/settings/theme-options.php:494
+msgid "Show Full Content"
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:75
+msgid "Show Orders"
+msgstr ""
+
+#: sidebar-store.php:21
+msgid "Sidebar"
+msgstr ""
+
+#: framework/settings/theme-options.php:506
+msgid "Single Post"
+msgstr ""
+
+#: framework/settings/theme-options.php:523
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: framework/settings/theme-options.php:475
+#: framework/settings/theme-options.php:511
+#: framework/settings/theme-options.php:1519
+msgid "Single Post Sidebar Position"
+msgstr ""
+
+#: framework/settings/theme-options.php:830
+msgid "Single product"
+msgstr ""
+
+#: framework/settings/theme-options.php:850
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: framework/settings/theme-options.php:835
+msgid "Single Product Sidebar Position"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:40
+msgid "SKU:"
+msgstr ""
+
+#: framework/settings/theme-options.php:1130
+msgid "Social"
+msgstr ""
+
+#: framework/settings/theme-options.php:1120
+#: framework/settings/theme-options.php:1132
+msgid "Social Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:1125
+msgid "Social User"
+msgstr ""
+
+#: content-none.php:6
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:66
+msgid "Sort by Feature"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:65
+msgid "Sort by On-Sale"
+msgstr ""
+
+#: framework/woocommerce/template-hook.php:64
+msgid "Sort by Sale"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:152
+msgid "sub item"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:159
+msgid "Sub Menu Item Settings"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:164
+msgid "Sub menu item width (px only)"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:56
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/settings/theme-options.php:336
+#: framework/settings/theme-options.php:1433
+msgid "Text"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:257
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/classes/core-ajax.php:341
+msgid "The email address is not correct."
+msgstr ""
+
+#: framework/settings/theme-options.php:435
+#: framework/settings/theme-options.php:436
+#: framework/settings/theme-options.php:1379
+#: framework/settings/theme-options.php:1380
+msgid "The number of visible vertical menu items"
+msgstr ""
+
+#: framework/settings/theme-options.php:1242
+#: framework/settings/theme-options.php:1256
+#: framework/settings/theme-options.php:1320
+msgid "Theme Options"
+msgstr ""
+
+#: framework/settings/theme-options.php:199
+msgid "Title"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:217
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/settings/theme-options.php:1137
+msgid "Title Social"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:271
+msgid "To the top"
+msgstr ""
+
+#: wc-vendors/dashboard/date-picker.php:26
+msgid "To:"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:217
+msgid "Top"
+msgstr ""
+
+#: functions.php:54 importer/importer.php:56
+msgid "Top Center Menu"
+msgstr ""
+
+#: functions.php:52 importer/importer.php:54
+msgid "Top Left Menu"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:66
+msgid "Top Level Item Settings"
+msgstr ""
+
+#: functions.php:53 importer/importer.php:55
+msgid "Top Right Menu"
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:85
+msgid "Totals"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:108
+msgid "Trash"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:106
+msgid "Trash this selected megamenu content."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:75
+msgid "Twitter"
+msgstr ""
+
+#: framework/settings/theme-options.php:1186
+msgid "Typography"
+msgstr ""
+
+#: framework/settings/theme-options.php:1191
+msgid "Typography of Body"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:265
+msgid "Up one"
+msgstr ""
+
+#: framework/settings/theme-options.php:1054
+#: framework/settings/theme-options.php:1064
+msgid "Up sells items per row on Desktop"
+msgstr ""
+
+#: framework/settings/theme-options.php:1074
+msgid "Up sells items per row on landscape tablet"
+msgstr ""
+
+#: framework/settings/theme-options.php:1094
+#: framework/settings/theme-options.php:1104
+msgid "Up sells items per row on Mobile"
+msgstr ""
+
+#: framework/settings/theme-options.php:1084
+msgid "Up sells items per row on portrait tablet"
+msgstr ""
+
+#: framework/settings/theme-options.php:1034
+msgid "Up sells Products"
+msgstr ""
+
+#: framework/settings/theme-options.php:1051
+msgid "Up sells products title"
+msgstr ""
+
+#: framework/settings/theme-options.php:1047
+msgid "Up sells title"
+msgstr ""
+
+#: framework/settings/theme-options.php:1230
+#: framework/settings/theme-options.php:1231
+msgid "Update Database"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:186
+#: framework/includes/megamenu/templates/form-settings.php:316
+#: framework/includes/megamenu/templates/form-settings.php:334
+msgid "Upload/Add image"
+msgstr ""
+
+#: framework/includes/megamenu/includes/walker_nav_menu_edit_custom.php:198
+msgid "URL"
+msgstr ""
+
+#: framework/settings/theme-options.php:665
+msgid "Url"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:237
+msgid "Use Font Icon"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:241
+msgid "Use Image"
+msgstr ""
+
+#: framework/settings/theme-options.php:176
+msgid "Use image Lazy Load"
+msgstr ""
+
+#: framework/settings/theme-options.php:499
+msgid "Using Placeholder"
+msgstr ""
+
+#: functions.php:55 importer/importer.php:57
+#: framework/settings/theme-options.php:388
+#: framework/settings/theme-options.php:1349
+msgid "Vertical Menu"
+msgstr ""
+
+#: framework/settings/theme-options.php:394
+msgid "Vertical Menu Always Open"
+msgstr ""
+
+#: framework/settings/theme-options.php:426
+#: framework/settings/theme-options.php:1370
+msgid "Vertical Menu Button close text"
+msgstr ""
+
+#: framework/settings/theme-options.php:417
+#: framework/settings/theme-options.php:1361
+msgid "Vertical Menu Button show all text"
+msgstr ""
+
+#: framework/settings/theme-options.php:380
+#: framework/settings/theme-options.php:1339
+msgid "Vertical Menu Settings"
+msgstr ""
+
+#: framework/settings/theme-options.php:408
+#: framework/settings/theme-options.php:1352
+msgid "Vertical Menu Title"
+msgstr ""
+
+#: framework/settings/theme-options.php:405
+msgid "Vertical menu will be always open"
+msgstr ""
+
+#: framework/settings/theme-options.php:1599
+msgid "Video Url"
+msgstr ""
+
+#: 404.php:42
+msgid "We&acute;re sorry but the page you are looking for does nor exist."
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: framework/classes/breadcrumbs.php:217
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:669
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:145
+msgid "Whether to disable item hyperlink or not."
+msgstr ""
+
+#: framework/includes/megamenu/templates/form-settings.php:127
+msgid "Whether to display item without text or not."
+msgstr ""
+
+#: functions.php:127
+msgid "Widget Area"
+msgstr ""
+
+#: framework/settings/theme-options.php:240
+msgid "Widget Settings"
+msgstr ""
+
+#: templates/header/header-style-03.php:72
+msgid "Wishlist"
+msgstr ""
+
+#: framework/settings/theme-options.php:636
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/woocommerce/template-functions.php:698
+msgid "write a preview"
+msgstr ""
+
+#: framework/classes/breadcrumbs.php:643 framework/classes/breadcrumbs.php:668
+#: framework/classes/breadcrumbs.php:691 framework/classes/breadcrumbs.php:714
+#: framework/classes/breadcrumbs.php:976
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: 404.php:44
+msgid "You could return to"
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:101
+msgid "You have no sales during this period."
+msgstr ""
+
+#: wc-vendors/dashboard/reports.php:112
+msgid "You haven't made any sales yet."
+msgstr ""
+
+#: framework/settings/theme-options.php:1050
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: framework/settings/theme-options.php:884
+msgid "You may be interested in..."
+msgstr ""
+
+#: comments.php:27
+msgid "Your Comments"
+msgstr ""
+
+#: framework/classes/core-ajax.php:375
+msgid "Your e-mail has been sent successfully."
+msgstr ""
+
+#: comments.php:25
+msgid "Your email"
+msgstr ""
+
+#: comments.php:24
+msgid "Your name"
+msgstr ""

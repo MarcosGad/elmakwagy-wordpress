@@ -1,0 +1,150 @@
+[13-Sep-2020 12:48:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/functions.php on line 521
+[13-Sep-2020 12:48:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/functions.php on line 521
+[13-Sep-2020 12:48:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/functions.php on line 521
+[13-Sep-2020 12:51:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/functions.php on line 499
+[13-Sep-2020 12:51:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/functions.php on line 499
+[13-Sep-2020 12:52:19 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 6
+[13-Sep-2020 12:52:19 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 18
+[13-Sep-2020 12:52:20 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 6
+[13-Sep-2020 12:52:20 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 18
+[13-Sep-2020 12:52:25 UTC] PHP Notice:  Undefined offset: 4 in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/templates-parts/header-social.php on line 9
+[13-Sep-2020 12:52:25 UTC] PHP Notice:  Undefined property: Vc_Updater::$title in /home/uderexon3lb5/public_html/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 99
+[13-Sep-2020 12:52:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uderexon3lb5/public_html/wp-content/plugins/kuteshop-toolkit/includes/shortcodes/simpleSEO.php on line 45
+[13-Sep-2020 12:52:25 UTC] PHP Notice:  Undefined offset: 4 in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/templates-parts/header-social.php on line 9
+[13-Sep-2020 12:52:25 UTC] PHP Notice:  Undefined offset: 4 in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/templates-parts/header-social.php on line 9
+[13-Sep-2020 12:52:29 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 6
+[13-Sep-2020 12:52:29 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 18
+[13-Sep-2020 12:52:34 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 6
+[13-Sep-2020 12:52:34 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 18
+[13-Sep-2020 12:52:36 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 6
+[13-Sep-2020 12:52:36 UTC] PHP Notice:  Undefined index: token in /home/uderexon3lb5/public_html/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php on line 18
+[13-Sep-2020 12:52:39 UTC] PHP Notice:  Undefined offset: 4 in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/templates-parts/header-social.php on line 9
+[13-Sep-2020 12:52:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uderexon3lb5/public_html/wp-content/plugins/kuteshop-toolkit/includes/shortcodes/simpleSEO.php on line 45
+[13-Sep-2020 12:52:39 UTC] PHP Notice:  Undefined offset: 4 in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/templates-parts/header-social.php on line 9
+[13-Sep-2020 12:52:39 UTC] PHP Notice:  Undefined offset: 4 in /home/uderexon3lb5/public_html/wp-content/themes/kuteshop/templates-parts/header-social.php on line 9
+[20-Sep-2020 02:57:45 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT postmeta.post_id FROM wp_postmeta as postmeta
+				LEFT JOIN wp_postmeta as postmeta_2 ON postmeta.post_id = postmeta_2.post_id
+				LEFT JOIN wp_postmeta as postmeta_3 ON postmeta.post_id = postmeta_3.post_id
+				WHERE postmeta.meta_key = '_sale_price_dates_from'
+					AND postmeta_2.meta_key = '_price'
+					AND postmeta_3.meta_key = '_sale_price'
+					AND postmeta.meta_value > 0
+					AND postmeta.meta_value < '1600570634'
+					AND postmeta_2.meta_value != postmeta_3.meta_value made by do_action_ref_array('woocommerce_scheduled_sales'), WP_Hook->do_action, WP_Hook->apply_filters, wc_scheduled_sales, WC_Data_Store->__call, WC_Product_Data_Store_CPT->get_starting_sales
+[23-Sep-2020 10:11:39 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[23-Sep-2020 15:16:28 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[23-Sep-2020 15:16:28 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[23-Sep-2020 15:16:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[29-Sep-2020 09:02:59 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT option_value FROM wp_options WHERE option_name = '_wpml_transient__wpml_st_file_scan_in_progress' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, WPML_ST_Translations_File_Scan_Hooks->import_translations_files, WPML_ST_Translations_File_Queue->is_locked, WPML_Transient->get, get_option
+[29-Sep-2020 10:34:53 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[29-Sep-2020 10:35:02 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[29-Sep-2020 10:35:02 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[29-Sep-2020 10:35:02 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[29-Sep-2020 10:35:02 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[29-Sep-2020 10:35:02 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[29-Sep-2020 10:35:02 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[29-Sep-2020 10:35:20 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:07:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:07:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:07:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:07:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:07:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:07:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:07:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:07:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:12:12 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:12:12 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[12-Oct-2020 15:12:14 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[13-Oct-2020 09:26:53 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[13-Oct-2020 09:27:03 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[13-Oct-2020 09:27:03 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[13-Oct-2020 09:27:03 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[13-Oct-2020 09:27:03 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[13-Oct-2020 09:27:03 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[13-Oct-2020 09:27:03 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[13-Oct-2020 15:44:17 UTC] WordPress database error Lost connection to MySQL server during query for query 
+					SELECT DISTINCT 
+						s.id,
+						s.name,
+						s.context,
+						st.status,
+						s.gettext_context, 
+						st.value AS tra,
+						st.mo_string AS mo_string,
+						s.value AS orig
+					FROM wp_icl_string_pages sp
+					INNER JOIN wp_icl_string_urls su
+						ON su.id = sp.url_id
+					INNER JOIN wp_icl_strings s
+						ON s.id = sp.string_id
+					LEFT JOIN wp_icl_string_translations st
+						ON s.id=st.string_id
+							AND st.language=su.language
+							AND s.language!=su.language
+					WHERE (su.language='ar' and su.url='^wp-json/(.*)?') or (su.language='ar' and su.url IS NULL)
+					 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, yith_wccos_pr_install, do_action('yith_wccos_pr_init'), WP_Hook->do_action, WP_Hook->apply_filters, yith_wccos_pr_init, YITH_WCCOS, YITH_WCCOS::get_instance, YITH_WCCOS_Premium->__construct, YITH_WCCOS->__construct, YITH_WCCOS_Admin, YITH_WCCOS_Admin::get_instance, YITH_WCCOS_Admin_Premium->__construct, wc_get_order_statuses, _x, translate_with_gettext_context, apply_filters('gettext_with_context'), WP_Hook->apply_filters, icl_sw_filters_gettext_with_context, icl_sw_filters_gettext, icl_translate, WPML_Register_String_Filter->translate_by_name_and_context, WPML_Displayed_String_Filter->get_translation, WPML_ST_DB_Cache->get_translation, WPML_ST_Page_Translations_Cached_Persist->get_translations_for_page, WPML_ST_Page_Translations_Persist->get_translations_for_page
+[13-Oct-2020 15:45:02 UTC] WordPress database error Lost connection to MySQL server during query for query 
+					SELECT DISTINCT 
+						s.id,
+						s.name,
+						s.context,
+						st.status,
+						s.gettext_context, 
+						st.value AS tra,
+						st.mo_string AS mo_string,
+						s.value AS orig
+					FROM wp_icl_string_pages sp
+					INNER JOIN wp_icl_string_urls su
+						ON su.id = sp.url_id
+					INNER JOIN wp_icl_strings s
+						ON s.id = sp.string_id
+					LEFT JOIN wp_icl_string_translations st
+						ON s.id=st.string_id
+							AND st.language=su.language
+							AND s.language!=su.language
+					WHERE (su.language='ar' and su.url='^wp-json/(.*)?') or (su.language='ar' and su.url IS NULL)
+					 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, yith_wccos_pr_install, do_action('yith_wccos_pr_init'), WP_Hook->do_action, WP_Hook->apply_filters, yith_wccos_pr_init, YITH_WCCOS, YITH_WCCOS::get_instance, YITH_WCCOS_Premium->__construct, YITH_WCCOS->__construct, YITH_WCCOS_Admin, YITH_WCCOS_Admin::get_instance, YITH_WCCOS_Admin_Premium->__construct, wc_get_order_statuses, _x, translate_with_gettext_context, apply_filters('gettext_with_context'), WP_Hook->apply_filters, icl_sw_filters_gettext_with_context, icl_sw_filters_gettext, icl_translate, WPML_Register_String_Filter->translate_by_name_and_context, WPML_Displayed_String_Filter->get_translation, WPML_ST_DB_Cache->get_translation, WPML_ST_Page_Translations_Cached_Persist->get_translations_for_page, WPML_ST_Page_Translations_Persist->get_translations_for_page
+[13-Oct-2020 15:45:02 UTC] WordPress database error Lost connection to MySQL server during query for query 
+					SELECT DISTINCT 
+						s.id,
+						s.name,
+						s.context,
+						st.status,
+						s.gettext_context, 
+						st.value AS tra,
+						st.mo_string AS mo_string,
+						s.value AS orig
+					FROM wp_icl_string_pages sp
+					INNER JOIN wp_icl_string_urls su
+						ON su.id = sp.url_id
+					INNER JOIN wp_icl_strings s
+						ON s.id = sp.string_id
+					LEFT JOIN wp_icl_string_translations st
+						ON s.id=st.string_id
+							AND st.language=su.language
+							AND s.language!=su.language
+					WHERE (su.language='ar' and su.url='^wp-json/(.*)?') or (su.language='ar' and su.url IS NULL)
+					 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, yith_wccos_pr_install, do_action('yith_wccos_pr_init'), WP_Hook->do_action, WP_Hook->apply_filters, yith_wccos_pr_init, YITH_WCCOS, YITH_WCCOS::get_instance, YITH_WCCOS_Premium->__construct, YITH_WCCOS->__construct, YITH_WCCOS_Admin, YITH_WCCOS_Admin::get_instance, YITH_WCCOS_Admin_Premium->__construct, wc_get_order_statuses, _x, translate_with_gettext_context, apply_filters('gettext_with_context'), WP_Hook->apply_filters, icl_sw_filters_gettext_with_context, icl_sw_filters_gettext, icl_translate, WPML_Register_String_Filter->translate_by_name_and_context, WPML_Displayed_String_Filter->get_translation, WPML_ST_DB_Cache->get_translation, WPML_ST_Page_Translations_Cached_Persist->get_translations_for_page, WPML_ST_Page_Translations_Persist->get_translations_for_page
+[14-Oct-2020 08:50:24 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:32 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:32 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:32 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:32 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:32 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:32 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:44 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:44 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:44 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:44 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:44 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:44 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:54 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:54 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:54 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:54 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:54 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:50:54 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:51:06 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:51:06 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:51:06 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626
+[14-Oct-2020 08:51:06 UTC] PHP Warning:  mysqli_real_connect(): (42000/1226): User 'elmakwagy' has exceeded the 'max_user_connections' resource (current value: 30) in /home/uderexon3lb5/public_html/wp-includes/wp-db.php on line 1626

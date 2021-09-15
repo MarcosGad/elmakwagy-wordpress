@@ -1,0 +1,362 @@
+---------------------------------------------------------------------
+Version: ...
+---------------------------------------------------------------------
+UPDATE:
+- Update WooCommerce 3.8.0
+---------------------------------------------------------------------
+Version: 3.6.1 - 31/10/2019
+---------------------------------------------------------------------
+ADD NEW:
+- "Theme Option / WooCommerce / Shop Settings / Shop Banner Link" for add link of Shop Banner
+UPDATE:
+- Style of Growl Notifications
+- Style of Variations Table in Product Page
+- Style of Icon, Image in All Type Menu Item ( Primary Menu, Top Menu, Vertical Menu, Mobile Menu, ... )
+FIXED:
+- Display of Mega-menu in RTL Version not right
+---------------------------------------------------------------------
+Version: 3.6.0 - 18/09/2019
+---------------------------------------------------------------------
+UPDATE:
+- live update
+---------------------------------------------------------------------
+Version: 3.5.9 - 06/09/2019
+---------------------------------------------------------------------
+FIXED:
+- Fixed countdown text
+---------------------------------------------------------------------
+Version: 3.5.8 - 04/09/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update single product pagination
+- Update total review products
+- Update css review products
+---------------------------------------------------------------------
+Version: 3.5.6 - 01/09/2019
+---------------------------------------------------------------------
+UPDATE:
+- Style space between Title and Content of Product Meta
+- Style Price of Group Table ( Product Group )
+- Text "Qty:" of Quantity Product can be translate
+- Update brand product
+- Update 3 type ordering shop page
+- Update total rating preview product
+FIXED:
+- Fixed style comment product
+---------------------------------------------------------------------
+Version: 3.5.5 - 27/08/2019
+---------------------------------------------------------------------
+FIXED:
+- Fixed Megamenu code
+---------------------------------------------------------------------
+Version: 3.5.4 - 26/08/2019
+---------------------------------------------------------------------
+UPDATE:
+- Remove style mobile single product
+- Update Megamenu code
+---------------------------------------------------------------------
+Version: 3.5.3 - 15/08/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update function resize image
+FIXED:
+- Fixed add to cart hidden in mobile
+---------------------------------------------------------------------
+Version: 3.5.2 - 13/08/2019
+---------------------------------------------------------------------
+FIXED:
+- Fixed menu header
+- Fixed Style of Block Search on Header
+- Fixed Style of Tab Head on Shortcode Tabs - style 01
+---------------------------------------------------------------------
+Version: 3.5.1 - 09/08/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update style WooCommerce vendor
+---------------------------------------------------------------------
+Version: 3.5.0 - 08/08/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update megamenu
+- Remove class Kuteshop_navwalker()
+CHANGE:
+- change `apply_filter(theme_get_meta)` by `theme_get_meta()`
+- change `apply_filter(theme_get_option)` by `theme_get_option()`
+- change `apply_filter(theme_resize_image)` by `theme_resize_image()`
+- change `apply_filter(kuteshop_product_query)` by `kuteshop_product_query()`
+
+- change `do_action(kuteshop_get_logo)` by `kuteshop_get_logo()`
+- change `do_action(kuteshop_header_control)` by `kuteshop_header_control()`
+- change `do_action(kuteshop_get_header)` by `kuteshop_get_header()`
+- change `do_action(kuteshop_header_sticky)` by `kuteshop_header_sticky()`
+- change `do_action(kuteshop_header_vertical)` by `kuteshop_header_vertical()`
+- change `do_action(kuteshop_search_form)` by `kuteshop_search_form()`
+- change `do_action(kuteshop_user_link)` by `kuteshop_user_link()`
+- change `do_action(kuteshop_header_social)` by `kuteshop_header_social()`
+- change `do_action(kuteshop_page_banner)` by `kuteshop_page_banner()`
+- change `do_action(kuteshop_time_ago)` by `kuteshop_time_ago()`
+- change `do_action(kuteshop_paging_nav)` by `kuteshop_paging_nav()`
+- change `do_action(kuteshop_post_thumbnail)` by `kuteshop_post_thumbnail()`
+- change `do_action(kuteshop_get_footer)` by `kuteshop_get_footer()`
+
+---------------------------------------------------------------------
+Version: 3.3.6 - 30/07/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update CDN image with jetpack plugin
+- Update some css of Place Order Box in Checkout Page
+---------------------------------------------------------------------
+Version: 3.3.5 - 10/07/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update Kuteshop Toolkit
+- Update Video Feature Gallery
+FIXED:
+- Fixed shortcode single image
+---------------------------------------------------------------------
+Version: 3.3.4 - 28/06/2019
+---------------------------------------------------------------------
+FIXED:
+- Fixed captcha code popup send email
+---------------------------------------------------------------------
+Version: 3.3.3 - 07/06/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update style for Customize / WooCommerce / Product Catalog / Shop page display:
+    + Show categories
+    + Show categories & products
+---------------------------------------------------------------------
+Version: 3.3.2 - 23/05/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update style,script
+- Update print,send email in single product
+- Breadcrumb will be display one line on Mobile
+- Tabs link of Tabs style Default,01,02,03,05,06,07,09,10,11,13 will be display one line on Mobile
+FIXED:
+- Product Share not display
+---------------------------------------------------------------------
+Version: 3.3.1 - 10/5/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update content import, import by database
+---------------------------------------------------------------------
+Version: 3.3.0 - 22/04/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update follow WooCommerce v3.6.1
+- Update some css of RTL version
+- Update content import
+---------------------------------------------------------------------
+Version: 3.2.9 - 08/04/2019
+---------------------------------------------------------------------
+UPDATE:
+- Update scrollbar jquery
+- Update ajax shop
+---------------------------------------------------------------------
+Version: 3.2.8
+---------------------------------------------------------------------
+UPDATE:
+- VC Parallax:
+    + remove library: assets/js/vendor/parallax.min.js
+    + use default code of VC
+FIXED:
+- display New Label of Product when Theme Options: Products Newness = 0 not right
+---------------------------------------------------------------------
+Version: 3.2.7 - 07/12/2018
+---------------------------------------------------------------------
+UPDATE:
+- Support Gutenberg.
+- Update WordPress 5.0
+---------------------------------------------------------------------
+Version: 3.2.6 - 04/12/2018
+---------------------------------------------------------------------
+UPDATE:
+- Update banner header.
+- Update our theme ( kuteshop > dashboard > our theme ).
+- Update slick slide.
+---------------------------------------------------------------------
+Version: 3.2.5 - 08/11/2018
+---------------------------------------------------------------------
+UPDATE:
+- Update custom css in theme options
+- Update product variable
+- Update product Bundle, Size Chart
+FIXED:
+- Fixed style Notify Popup add/remove product (RTL version).
+- Fixed dokan vendor content shop.
+---------------------------------------------------------------------
+Version: 3.2.4 - 05/11/2018
+---------------------------------------------------------------------
+FIXED:
+- Fixed Add To Cart ajax single product.
+UPDATE:
+- Update loading when remove product in mini cart.
+- Update style of variation attribute product in cart.
+- Update product attributes swatches.
+---------------------------------------------------------------------
+Version: 3.2.3 - 26/10/2018
+---------------------------------------------------------------------
+UPDATE:
+- Update notify add/remove product.
+---------------------------------------------------------------------
+Version: 3.2.2 - 23/10/2018
+---------------------------------------------------------------------
+FIXED:
+- Fixed css Search form in Header style 08 Mobile ( Device resolution < 767px )
+- Fixed css Popup Newsletter
+---------------------------------------------------------------------
+Version: 3.2.1
+---------------------------------------------------------------------
+UPDATE:
+- Update notice add to cart, optimize theme
+- Update ajax shop
+---------------------------------------------------------------------
+Version: 3.2.0
+---------------------------------------------------------------------
+UPDATE:
+- Update Banner in Category Page
+- Update Lib Slick Slide
+- Update Select Image In Shortcode Tabs
+---------------------------------------------------------------------
+Version: 3.1.9
+---------------------------------------------------------------------
+UPDATE:
+- Update Auto Update Kuteshop Toolkit
+FIXED:
+- Fixed Bug js Menu Mobile, Vertical Menu Mobile
+---------------------------------------------------------------------
+Version: 3.1.8
+---------------------------------------------------------------------
+UPDATE:
+- Update Instant Search, Live Search
+- Update Kuteshop Toolkit v1.1.0
+FIXED:
+- Fixed Paste Text To Search Field
+- Fixed Css Builder
+---------------------------------------------------------------------
+Version: 3.1.7
+---------------------------------------------------------------------
+UPDATE:
+- Update Mailchimp 2.0
+- Update Processing Effect of Newsletter Form
+FIXED:
+- Fixed Shop Ajax List / Grid
+---------------------------------------------------------------------
+Version: 3.1.6
+---------------------------------------------------------------------
+UPDATE:
+- Update Enable/Disable Ajax on Single Product
+- Update js Swatch Product
+- Update Version Mobile in Single Product
+FIXED:
+- Fixed Font-size of Widget Tag Cloud
+- Fixed Ajax on Single Product
+- Fixed Custom Template File related, upsell, crosssell WooCommerce
+---------------------------------------------------------------------
+Version: 3.1.5
+---------------------------------------------------------------------
+UPDATE:
+- Update Resize image
+- Update Plugins Ovic VC Addon ( Responsive Visual composer )
+- Update Ajax Shop Page
+- Update Options Vertical Menu ( setting block vertical only in theme options )
+FIXED:
+- Fixed Megamenu Select Image
+- Fixed Add to Cart Product Page
+- Fixed Can't Turn Off Live Search
+---------------------------------------------------------------------
+Version: 3.1.4
+---------------------------------------------------------------------
+FIXED:
+- Fixed RTL Full Width Visual Composer v5.5.2.
+---------------------------------------------------------------------
+Version: 3.1.3
+---------------------------------------------------------------------
+UPDATE:
+- Update Megamenu
+- Update Import
+FIXED:
+- Fixed Grid, List View Error in Some Language
+- Fixed Style of Blog Categories in Blog Style 2
+---------------------------------------------------------------------
+Version: 3.1.2
+---------------------------------------------------------------------
+FIXED:
+- Fixed Megamenu Item don't active
+UPDATE:
+- Update Code Lazyload
+- Update Css Woocommerce Store Notice
+- Update WooCommerce v3.4.0
+---------------------------------------------------------------------
+Version: 3.1.1
+---------------------------------------------------------------------
+FIXED:
+- Style Shop Style List
+---------------------------------------------------------------------
+Version: 3.1.0
+---------------------------------------------------------------------
+FIXED:
+- Lazy of Images in Megamenu
+- Previous, Next button of Pagination in Shop page
+---------------------------------------------------------------------
+Version: 3.0.9
+---------------------------------------------------------------------
+FIXED:- clear 6 item in shop page
+---------------------------------------------------------------------
+Version: 3.0.8
+---------------------------------------------------------------------
+FIXED:
+- Wrong text in live search options
+UPDATE:
+- single product meta
+---------------------------------------------------------------------
+Version: 3.0.7
+---------------------------------------------------------------------
+UPDATE:
+- Link Document
+---------------------------------------------------------------------
+Version: 3.0.6
+---------------------------------------------------------------------
+UPDATE:
+- Google Map
+---------------------------------------------------------------------
+Version: 3.0.5
+---------------------------------------------------------------------
+UPDATE:
+- add no rating in product
+---------------------------------------------------------------------
+Version: 3.0.4
+---------------------------------------------------------------------
+UPDATE:
+- Kuteshop Toolkit v1.0.3
+- Update Content Import
+- Update grid/list shop page
+---------------------------------------------------------------------
+Version: 3.0.3
+---------------------------------------------------------------------
+UPDATE:
+- Kuteshop Toolkit V1.0.2
+- Update Live Search
+---------------------------------------------------------------------
+Version: 3.0.2
+---------------------------------------------------------------------
+UPDATE:
+- Kuteshop Toolkit V1.0.1
+- Update supports RTL
+FIXED:
+-Fix select preview options
+---------------------------------------------------------------------
+Version: 3.0.1
+---------------------------------------------------------------------
+UPDATE:
+- Fix content vendor.
+UPDATE File:
+/wp-content/themes/kuteshop/woocommerce.php
+/wp-content/themes/kuteshop/assets/css/style.css
+/wp-content/themes/kuteshop/framework/includes/woo-functions.php
+/wp-content/themes/kuteshop/woo-templates/content-product.php
+---------------------------------------------------------------------
+Version: 3.0.0
+---------------------------------------------------------------------
+Initial release

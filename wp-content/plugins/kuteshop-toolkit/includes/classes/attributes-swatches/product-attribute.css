@@ -1,0 +1,101 @@
+.entry-summary .cart{
+    padding: 10px 0;
+}
+.entry-summary .variations{
+    border: none;
+    margin-bottom: 0;
+}
+.entry-summary .variations td.label{
+    display: table-cell;
+    vertical-align: top;
+    width: 1%;
+    padding: 0 10px 12px 0;
+    text-align: inherit;
+    border: none;
+    min-width: 50px;
+    white-space: nowrap;
+}
+.entry-summary .variations td.label::after{
+    content: ':';
+}
+.entry-summary .variations td.label label{
+    display: inline;
+    margin: 0;
+}
+.entry-summary .variations td.value{
+    padding: 0 0 12px;
+    text-align: inherit;
+    border: none;
+}
+.entry-summary .variations select{
+    border-color: #eee;
+    height: 24px;
+    line-height: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    cursor: pointer;
+    width: 100%;
+}
+.entry-summary .variations .reset_variations{
+    float: right;
+    margin-left: 10px;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    opacity: 0.6;
+}
+.entry-summary .variations select[data-attributetype="label"],
+.entry-summary .variations select[data-attributetype="button"],
+.entry-summary .variations select[data-attributetype="photo"],
+.entry-summary .variations select[data-attributetype="color"]{
+    display: none !important;
+}
+.entry-summary .variations .data-val[data-attributetype="label"],
+.entry-summary .variations .data-val[data-attributetype="button"],
+.entry-summary .variations .data-val[data-attributetype="photo"],
+.entry-summary .variations .data-val[data-attributetype="color"]{
+    display: inline-block;
+    vertical-align: top;
+}
+.entry-summary .variations .data-val{
+    display: none;
+    font-size: 0;
+    line-height: 0;
+    margin: 0 -4px;
+}
+.entry-summary .variations .data-val a{
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    min-width: 20px;
+    height: 20px;
+    font-size: 12px;
+    line-height: 20px;
+    border: 1px solid #eee;
+    margin: 2px 4px;
+    padding: 0 5px;
+    text-transform: uppercase;
+}
+.entry-summary .variations .data-val a::before{
+    position: absolute;
+    content: '';
+    top: -2px;
+    bottom: -2px;
+    left: -2px;
+    right: -2px;
+    border: 1px solid transparent;
+}
+.entry-summary .variations .data-val a:hover,
+.entry-summary .variations .data-val a.active{
+    border-color: #ffe6ec;
+}
+.entry-summary .variations .data-val a:hover::before,
+.entry-summary .variations .data-val a.active::before{
+    border-color: #ff3366;
+}
+.entry-summary .variations .data-val a.photo{
+    width: 35px;
+    height: 45px;
+    background-size: cover;
+    padding: 0;
+    background-position: center;
+}
